@@ -1,4 +1,4 @@
-# УПРАЖНЕНИЯ
+# УПРАЖНЕНИЯ ГЛАВЫ 2
 
 1. Напишите отдельную программу для выполнения каждого из следующих упражнений. Сохраните каждую программу в файле, имя которого подчиняется стандартным правилам Python по использованию строчных букв и символов подчеркивания – например, simple_message.py и simple_messages.py.
 
@@ -16,3 +16,33 @@
     * 2-6. Знаменитая цитата 2: повторите упражнение 2-5, но на этот раз сохраните имя автора цитаты в переменной famous_person. Затем составьте сообщение и сохраните его в новой переменной с именем message. Выведите свое сообщение.
     * 2-7. Удаление пропусков: сохраните имя пользователя в переменной. Добавьте в начале и в конце имени несколько пропусков. Проследите за тем, чтобы каждая служебная последовательность , “\t” и “\n”, встречалась по крайней мере один раз.
     Выведите имя, чтобы были видны пропуски в начале и конце строки. Затем выведите его снова с использованием каждой из функций удаления пропусков: lstrip(), rstrip() и strip().
+
+    * 2-8. Число 8: напишите операции сложения, вычитания, умножения и деления, результатом которых является число 8. Не забудьте заключить операции в команды print, чтобы проверить результат. Вы должны написать четыре строки кода, которые выглядят примерно так:
+        ```print(5 + 3)```
+    Результатом должны быть четыре строки, в каждой из которых выводится число 8.
+    * 2-9. Любимое число: сохраните свое любимое число в переменной. Затем при помощи переменной создайте сообщение для вывода этого числа. Выведите это сообщение
+    * 2-10. Добавление комментариев: выберите две программы из написанных вами и добавьте в каждую хотя бы один комментарий. Если вы не найдете, что написать в комментариях, потому что программы были слишком просты, добавьте свое имя и текущую дату в начало кода. Затем добавьте одно предложение с описанием того, что делает программа.
+    * 2-11. Дзен Python: введите команду import this в терминальном сеансе Python и просмотрите другие принципы.
+
+```        import this
+        The Zen of Python, by Tim Peters
+
+        Beautiful is better than ugly.
+        Explicit is better than implicit.
+        Simple is better than complex.
+        Complex is better than complicated.
+        Flat is better than nested.
+        Sparse is better than dense.
+        Readability counts.
+        Special cases aren't special enough to break the rules.
+        Although practicality beats purity.
+        Errors should never pass silently.
+        Unless explicitly silenced.
+        In the face of ambiguity, refuse the temptation to guess.
+        There should be one-- and preferably only one --obvious way to do it.
+        Although that way may not be obvious at first unless you're Dutch.
+        Now is better than never.
+        Although never is often better than *right* now.
+        If the implementation is hard to explain, it's a bad idea.
+        If the implementation is easy to explain, it may be a good idea.
+        Namespaces are one honking great idea -- let's do more of those!```
